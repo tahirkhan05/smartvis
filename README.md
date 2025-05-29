@@ -52,7 +52,7 @@ sudo yum install tesseract           # CentOS/RHEL
 
 ### 4. Configure Environment
 
-Create `.env` and update:
+Create `.env` in project root directory:
 
 ```env
 
