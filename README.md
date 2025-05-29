@@ -109,6 +109,7 @@ python main.py
 
 - **'S'** - Ask a question about the current frame
 - **'O'** - Extract text from the current frame  
+- **'C'** - Manual current frame capture
 - **'Q'** - Quit application
 
 ### Testing RTSP Stream
