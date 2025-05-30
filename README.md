@@ -1,6 +1,10 @@
-# SmartVis - AI Vision System
+# 👀 SmartVis - AI Vision System
 
 SmartVis is a real-time AI vision system that combines object detection, vision language models (VLM), optical character recognition (OCR), and speech processing for RTSP video streams.
+
+## 🎞️ Demo Video
+
+https://github.com/user-attachments/assets/a922c0af-a7cb-42bd-8891-dad62295a4ce
 
 ## Features
 
